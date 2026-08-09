@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)https://library.iub.edu.bd/ -->
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="js fontawesome-i2svg-active fontawesome-i2svg-complete"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="./library_files/js(1)"></script><script src="./library_files/lazysizes.min.js.download" async=""></script><script src="chrome-extension://nimlmejbmnecnaghgmbahmbaddhjbecg/content/location/location.js" id="nimlmejbmnecnaghgmbahmbaddhjbecg"></script><script src="chrome-extension://nimlmejbmnecnaghgmbahmbaddhjbecg/libs/extend-native-history-api.js"></script><script src="chrome-extension://nimlmejbmnecnaghgmbahmbaddhjbecg/libs/requests.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script async="" src="./library_files/js(2)"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-183111169-3", {"groups":"default","page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./library_files/css" media="all">
+<link rel="icon" href="https://library.iub.edu.bd/sites/default/files/iub-color_0.png" type="image/png">
+
+    <title>Home | IUB Library</title>
+    <link rel="stylesheet" media="all" href="./library_files/headings.css">
+<link rel="stylesheet" media="all" href="./library_files/texts.css">
+<link rel="stylesheet" media="all" href="./library_files/align.module.css">
+<link rel="stylesheet" media="all" href="./library_files/container-inline.module.css">
+<link rel="stylesheet" media="all" href="./library_files/clearfix.module.css">
+<link rel="stylesheet" media="all" href="./library_files/hidden.module.css">
+<link rel="stylesheet" media="all" href="./library_files/js.module.css">
+<link rel="stylesheet" media="all" href="./library_files/views.module.css">
+<link rel="stylesheet" media="all" href="./library_files/bootstrap.min.css">
+<link rel="stylesheet" media="all" href="./library_files/bootstrap-icons.css">
+<link rel="stylesheet" media="all" href="./library_files/boxicons.min.css">
+<link rel="stylesheet" media="all" href="./library_files/glightbox.min.css">
+<link rel="stylesheet" media="all" href="./library_files/swiper-bundle.min.css">
+<link rel="stylesheet" media="all" href="./library_files/style.css">
+<link rel="stylesheet" media="all" href="./library_files/all.css">
+<link rel="stylesheet" media="all" href="./library_files/v4-shims.css">
+<link rel="stylesheet" media="all" href="./library_files/iub-colors.css">
+<link rel="stylesheet" media="all" href="./library_files/custom.css">
+<link rel="stylesheet" media="all" href="./library_files/logo-slider.css">
+<link rel="stylesheet" media="all" href="./library_files/membership.css">
+<link rel="stylesheet" media="all" href="./library_files/searching.css">
+<link rel="stylesheet" media="all" href="./library_files/service.css">
+<link rel="stylesheet" media="all" href="./library_files/css(1)">
+
+    
+  <script bis_use="true" type="text/javascript" charset="utf-8" nonce="" data-dynamic-id="90e555c2-1038-4fdb-8f14-1d67eb33add8" src="chrome-extension://nimlmejbmnecnaghgmbahmbaddhjbecg/executors/200.js"></script><script bis_use="true" type="text/javascript" charset="utf-8" nonce="" data-dynamic-id="90e555c2-1038-4fdb-8f14-1d67eb33add8" src="chrome-extension://nimlmejbmnecnaghgmbahmbaddhjbecg/executors/101.js"></script></head>
+  <body class="fontyourface path-frontpage" __processed_9b800251-ca8d-401c-91c1-ed35ad200ec5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6Im5pbWxtZWpibW5lY25hZ2hnbWJhaG1iYWRkaGpiZWNnIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjEuMiIsInNjb3JlIjoyMDEwMjB9XQ==" data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0">
+    <a href="https://library.iub.edu.bd/#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="" bis_skin_checked="1">
+    <section id="topbar" class="d-flex align-items-center bg-iub-blue">
+    <div class="container d-flex justify-content-center justify-content-md-between" bis_skin_checked="1">
+    <!-- ===== Topbar Left ==== -->
+            
+               
+         
+              <div class="region region-topbar-left d-grid gap-3" bis_skin_checked="1">
+    <div id="block-topcontact" class="block block-block-content block-block-content35d898f4-3a8d-413c-be66-3b1513144d4d" bis_skin_checked="1">
+  
+    
+      <div class="content" bis_skin_checked="1">
+      
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--entity-block-content mb-3" bis_skin_checked="1">
+  
+            <div class="field__item" bis_skin_checked="1">
+        <div class="contact-info d-flex align-items-center" bis_skin_checked="1">
+<i class="bi bi-envelope d-flex align-items-center"><a href="mailto:library@iub.edu.bd">library@iub.edu.bd</a></i>
+<i class="bi bi-phone d-flex align-items-center ms-4"><span>+8801600944477</span></i>
+</div>
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+
+                  <!-- ====== Topbar Left -->
+    <!-- ===== Topbar Right ==== -->
+           <a class="text-light" href="https://opac.iub.edu.bd/cgi-bin/koha/opac-user.pl"> Library login</a>
+              
+    <!-- ====== Topbar Right -->
+    </div>
+  </section>
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center aos-init aos-animate" data-aos="fade-down">
+
+    <div class="container d-flex align-items-center justify-content-between" bis_skin_checked="1">
+
+                                           <a href="https://library.iub.edu.bd/" title="Skip to the home page" rel="home" class="navbar-brand text-capitalize float-left site-logo logo-png">
+      <img src="./library_files/library-color_1.png" alt="Skip to the home page" class="brand-image"> 
+    </a>
+  
+
+                        
+                              <div class="region region-primary-menu d-grid gap-3" bis_skin_checked="1">
+    <nav id="navbar" class="navbar" role="navigation">
+        
+      <ul class="menu menu--main nav">
+                      <li class="active active-trail first">
+                                        <a href="https://library.iub.edu.bd/" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Home</a>
+              </li>
+                      <li class="dropdown">
+                                                                    <span>About Us <i class="bi bi-chevron-down"></i></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="https://library.iub.edu.bd/about" data-drupal-link-system-path="node/204">Library at a glance</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/about" data-drupal-link-system-path="node/204">Library Brochure</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/library-rules" data-drupal-link-system-path="node/9">Library Rules</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/collection" data-drupal-link-system-path="node/5">Collection</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/iub-library-team" data-drupal-link-system-path="node/137">Library Team</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://library.iub.edu.bd/global-affiliations-memberships" data-drupal-link-system-path="node/37938">Global Affiliations &amp; Memberships</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="dropdown">
+                                                                    <a href="https://library.iub.edu.bd/services" data-drupal-link-system-path="services">Services <i class="bi bi-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="https://library.iub.edu.bd/dspace" data-drupal-link-system-path="node/38371">Academic Repository: Dspace </a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/guides" data-drupal-link-system-path="node/25702">Subject Guides</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/node/25934" data-drupal-link-system-path="node/25934">Research Support</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/node/25937" data-drupal-link-system-path="node/25937">Research Software Lab @ IUB Library</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/help/login-library-account" data-drupal-link-system-path="node/254">Log in to Library Account</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://library.iub.edu.bd/canva" data-drupal-link-system-path="node/38370">CANVA for Education</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/campus-jobs" target="_blank" data-drupal-link-system-path="node/26060">Campus Job</a>
+              </li>
+                      <li>
+                                        <a href="https://library.iub.edu.bd/facilities" data-drupal-link-system-path="facilities">Facilities</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://library.iub.edu.bd/gallery/program-photos" data-drupal-link-system-path="node/4149">Gallery</a>
+              </li>
+        </ul>
+  
+<i class="bi bi-list mobile-nav-toggle"></i>
+  </nav>
+  </div>
+
+                  
+    </div>
+  </header><!-- End Header -->
+<section class="bg-searching d-grid gap-3">
+  <div class="container" bis_skin_checked="1">
+    <div class="transbox" bis_skin_checked="1">
+      <div class="row" bis_skin_checked="1">
+        <div class="col-xl-8" bis_skin_checked="1">
+            <!-- Tabs -->
+  <div class="row" bis_skin_checked="1">
+    <div class="col-xs-12 " bis_skin_checked="1">
+
+      <ul class="nav nav-pills nav-justified mx-auto" id="nav-tab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active btn-iub-blue btn-lg rounded-0 text-light h3" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">
+
+              Books
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link btn-iub-blue btn-lg rounded-0 text-light h3" id="nav-ebooks-tab" data-bs-toggle="tab" data-bs-target="#nav-ebooks" type="button" role="tab" aria-controls="nav-ebooks" aria-selected="false" tabindex="-1">
+
+              Academic Repository
+            </button>
+          </li>
+<li class="nav-item" role="presentation">
+  <a class="nav-link btn-iub-blue btn-lg rounded-0 text-light h3" href="https://library.iub.edu.bd/database" style="font-size: 1.05rem; font-weight: 200;" aria-selected="false" tabindex="-1" role="tab">
+      Databases A-Z
+  </a>
+</li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content" id="nav-tabContent" bis_skin_checked="1">
+        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" bis_skin_checked="1"> <!-- nav home starts -->
+        <!-- nav home contents starts -->
+          <div data-aos="zoom-in" bis_skin_checked="1" class="aos-init aos-animate">
+            <!-- catalog search -->
+            <div class="m-5 p-3" bis_skin_checked="1">
+              <form action="https://opac.iub.edu.bd/cgi-bin/koha/opac-search.pl" class="card card-lg border-0" id="searchform" method="get" name="searchform">
+                <div class="card-body row no-gutters align-items-center" bis_skin_checked="1">
+
+                  <div class="col-auto" bis_skin_checked="1">&nbsp;  </div>
+                  <!--end of col-->
+
+                  <div class="col" bis_skin_checked="1">
+                    <input class="form-control form-control-lg form-control-borderless" id="transl1" name="q" placeholder="Search in library catalogue" type="text-success">
+                  </div>
+
+                  <!--end of col-->
+
+                  <div class="col-auto" bis_skin_checked="1">
+                    <button class="btn btn-lg bg-iub-blue text-light" id="searchsubmit" type="submit" value="Search"><i class="bi bi-search"></i>
+                    </button>
+
+                  </div><!--end of col-->
+                </div>
+               
+              </form>
+               </div>
+            <!-- catalog search -->
+          </div>
+          <!-- nav home contents ends -->
+        </div> <!-- nav home ends -->
+        <div class="tab-pane fade" id="nav-ebooks" role="tabpanel" aria-labelledby="nav-ebooks-tab" bis_skin_checked="1">
+          <div data-aos="zoom-in" bis_skin_checked="1" class="aos-init aos-animate">
+              <!-- Dspace Search -->
+              <div class="m-5 p-5" bis_skin_checked="1">
+                <form action="https://ar.iub.edu.bd/discover" class="card card-lg border-0" id="searchform" method="get" name="searchform" target="_blank">
+                  <div class="card-body row no-gutters align-items-center" bis_skin_checked="1">
+                    <div class="col-auto" bis_skin_checked="1">&nbsp;
+                    </div>
+                    <!--end of col-->
+                    <div class="col" bis_skin_checked="1">
+                      <input class="form-control form-control-lg form-control-borderless" id="query" name="query" placeholder="Search in IUB Academic Repository" type="text">
+                    </div>
+                    <!--end of col-->
+                    <div class="col-auto" bis_skin_checked="1">
+                      <button class="btn btn-lg bg-iub-blue text-light" id="main-query-submit" type="submit" value="Search"><i class="bi bi-search"></i>
+                      </button>
+                    </div>
+                    <input type="hidden" value="10" name="rpp">
+                    <input type="hidden" value="score" name="sort_by">
+                    <input type="hidden" value="desc" name="order">
+                    <!--end of col--></div>
+                </form>
+              </div>
+              <!-- Dspace Search -->
+          </div>
+        </div>
+        <div class="tab-pane fade" id="nav-others" role="tabpanel" aria-labelledby="nav-others-tab" bis_skin_checked="1">
+          <div data-aos="zoom-in" bis_skin_checked="1" class="aos-init aos-animate">
+              <!-- Databases A-Z -->
+              <div class="m-5 p-3" bis_skin_checked="1">
+                <form action="https://library.iub.edu.bd/database" class="card card-lg border-0" target="_blank" method="get" name="searchform">
+                  <div class="card-body row no-gutters align-items-center" bis_skin_checked="1">
+                    <div class="col-auto" bis_skin_checked="1">&nbsp;
+                    </div>
+                    <!--end of col-->
+                    <div class="col" bis_skin_checked="1">
+                      <input class="form-control form-control-lg form-control-borderless" name="q" placeholder="Database A-Z" type="text">
+                    </div>
+                    <div class="col-auto" bis_skin_checked="1">
+                      <button class="btn btn-lg bg-iub-blue text-blue" type="submit" value="Search"><i class="bi bi-search"></i>
+                      </button>
+                    </div>
+                    <!--end of col--></div>
+                </form>
+              </div>
+              <!-- Database A-Z -->
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+<!-- ./Tabs -->        </div>
+        <div class="col-xl-4" bis_skin_checked="1">
+          <div class="h-100 align-middle border-0 bg-light" bis_skin_checked="1">
+              <section class="eresources bg-iub-blue">
+                  <h2 class="text-light text-center"> e-Resources </h2>
+               
+                <div bis_skin_checked="1">
+                  <div class="card text-center border-0 bg-transparent" bis_skin_checked="1"><a href="https://library.iub.edu.bd/database" class="btn btn-outline-light btn-md m-3"> Databases </a>
+                  <div bis_skin_checked="1">
+                      <div class="card text-center border-0 bg-transparent" bis_skin_checked="1"><a href="https://library.iub.edu.bd/magazine" class="btn btn-outline-light btn-md m-3"> e-Magazines</a>
+                 <div bis_skin_checked="1">
+                      <div class="card text-center border-0 bg-transparent" bis_skin_checked="1"><a href="https://library.iub.edu.bd/remote-access" class="btn btn-outline-light btn-md m-3"> Remote Access through Refread</a>
+                  <div bis_skin_checked="1">
+
+             </div></div></div></div></div></div></div></section>
+          
+        </div>
+      </div> <!-- row-->
+    </div> <!-- transbox -->
+  </div> <!-- container -->
+</div></section>
+<div class="services pd" bis_skin_checked="1">
+    <div class="container" bis_skin_checked="1">
+        <div class="row text-center" bis_skin_checked="1">
+            <div class="col-xl-2 col-md-2 col-sm-6" bis_skin_checked="1">
+                <div class="square" bis_skin_checked="1"><a href="https://library.iub.edu.bd/guides" class="stretched-link"><svg class="svg-inline--fa fa-code fa-w-20 fa-4x text-white" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="code" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M278.9 511.5l-61-17.7c-6.4-1.8-10-8.5-8.2-14.9L346.2 8.7c1.8-6.4 8.5-10 14.9-8.2l61 17.7c6.4 1.8 10 8.5 8.2 14.9L293.8 503.3c-1.9 6.4-8.5 10.1-14.9 8.2zm-114-112.2l43.5-46.4c4.6-4.9 4.3-12.7-.8-17.2L117 256l90.6-79.7c5.1-4.5 5.5-12.3.8-17.2l-43.5-46.4c-4.5-4.8-12.1-5.1-17-.5L3.8 247.2c-5.1 4.7-5.1 12.8 0 17.5l144.1 135.1c4.9 4.6 12.5 4.4 17-.5zm327.2.6l144.1-135.1c5.1-4.7 5.1-12.8 0-17.5L492.1 112.1c-4.8-4.5-12.4-4.3-17 .5L431.6 159c-4.6 4.9-4.3 12.7.8 17.2L523 256l-90.6 79.7c-5.1 4.5-5.5 12.3-.8 17.2l43.5 46.4c4.5 4.9 12.1 5.1 17 .6z"></path></svg><!-- <i class="fas fa-code fa-4x text-white"></i> Font Awesome fontawesome.com --></a></div>
+                <div class="serv" bis_skin_checked="1">
+                    <h5>Subject guides</h5>
+                </div>
+            </div>
+            <div class="col-xl-2 col-md-2 col-sm-6" bis_skin_checked="1">
+                <div class="serv" bis_skin_checked="1">
+                    <div class="square" bis_skin_checked="1"><a href="https://library.iub.edu.bd/services"><svg class="svg-inline--fa fa-globe fa-w-16 fa-4x text-white" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="globe" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path></svg><!-- <i class="fas fa-globe fa-4x text-white"></i> Font Awesome fontawesome.com --></a></div>
+                    <h5>Services</h5>
+                </div>
+            </div>
+            <div class="col-xl-2 col-md-2 col-sm-6" bis_skin_checked="1">
+                <div class="square" bis_skin_checked="1"><a href="https://library.iub.edu.bd/node/11" class="stretched-link"><svg class="svg-inline--fa fa-user-shield fa-w-20 fa-4x text-white" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user-shield" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M622.3 271.1l-115.2-45c-4.1-1.6-12.6-3.7-22.2 0l-115.2 45c-10.7 4.2-17.7 14-17.7 24.9 0 111.6 68.7 188.8 132.9 213.9 9.6 3.7 18 1.6 22.2 0C558.4 489.9 640 420.5 640 296c0-10.9-7-20.7-17.7-24.9zM496 462.4V273.3l95.5 37.3c-5.6 87.1-60.9 135.4-95.5 151.8zM224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm96 40c0-2.5.8-4.8 1.1-7.2-2.5-.1-4.9-.8-7.5-.8h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c6.8 0 13.3-1.5 19.2-4-54-42.9-99.2-116.7-99.2-212z"></path></svg><!-- <i class="fas fa-user-shield fa-4x text-white"></i> Font Awesome fontawesome.com --></a></div>
+                <div class="serv" bis_skin_checked="1">
+                    <h5>Research Support</h5>
+                </div>
+            </div>
+            <div class="col-xl-2 col-md-2 col-sm-6" bis_skin_checked="1">
+                <a href="https://library.iub.edu.bd/remote-access">
+                    <div class="square" bis_skin_checked="1"><svg class="svg-inline--fa fa-lock fa-w-14 fa-4x text-light" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="lock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M400 224h-24v-72C376 68.2 307.8 0 224 0S72 68.2 72 152v72H48c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V272c0-26.5-21.5-48-48-48zm-104 0H152v-72c0-39.7 32.3-72 72-72s72 32.3 72 72v72z"></path></svg><!-- <i class="fas fa-lock fa-4x text-light"></i> Font Awesome fontawesome.com --></div>
+                    <div class="serv" bis_skin_checked="1">
+                    <h5>Remote Access</h5>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-xl-2 col-md-3 col-sm-6 mb-4" bis_skin_checked="1">
+                <a href="https://library.iub.edu.bd/services/turnitin-plagiarism-check" class="text-decoration-none" style="text-decoration:none;">
+                    <div class="square bg-white border" bis_skin_checked="1">
+                    <img src="./library_files/turnitin.png" alt="Turnitin" loading="lazy" style="max-height:60px;object-fit:contain;transition:transform 0.3s ease; background-color:transparent; padding:2px;">
+                    </div>
+                    <div class="serv text-center mt-2" style="text-align:center;margin-top:0.5rem;" bis_skin_checked="1">
+                    <h5 class="text-dark mb-0" style="color:#212529;margin-bottom:0;">Turnitin</h5>
+                    
+                    </div>
+                </a>
+            </div>
+
+
+
+            
+        </div>
+    </div>
+</div>
+
+
+<section class="membership">
+  <div class="d-grid gap-3" bis_skin_checked="1">
+    <div class="container" bis_skin_checked="1">
+        <div class="row" bis_skin_checked="1">
+          <div class="col-xl-4" bis_skin_checked="1">
+                <section class="bg-iub-blue text-center">
+                  <svg class="svg-inline--fa fa-users fa-w-20 fa-4x text-light h-100" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"></path></svg><!-- <i class="fas fa-users fa-4x text-light h-100"></i> Font Awesome fontawesome.com -->
+                  <h2 class="text-light text-center"> My Library </h2>
+                    <div class="card text-center border-0 bg-transparent" bis_skin_checked="1">
+  <ul class="list-group list-group-flush text-start">
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/webform/membership-form%20autumn"> <i class="bi bi-person-badge"></i> Library Membership for Students</a></li>
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/node/200"><i class="bi bi-box-arrow-in-right"></i> Get Community Library Membership</a></li>
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/form/library-orientation-registration"> <i class="bi bi-clipboard-check"></i> Library Orientation Registration</a></li>
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/node/254"><i class="bi bi-box-arrow-in-right"></i> Log in to Library Account</a></li>
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/node/255"> <i class="bi bi-house"></i> eLibrary Access Guide
+    </a></li>
+    <li class="list-group-item rounded-0"><a href="https://library.iub.edu.bd/orientation-2022"> <i class="bi bi-clipboard-check"></i>Library orientation (ppt) </a></li>
+    <li class="list-group-item rounded-0"><i class="bi bi-box-arrow-in-right"></i> <a href="https://library.iub.edu.bd/node/256">Get Help
+    </a></li>
+  </ul>
+  
+<div bis_skin_checked="1">
+    
+                </div></div></section>
+          </div>
+          <div class="col-xl-4" bis_skin_checked="1">
+                <section class="bg-iub-yellow text-center rounded shadow pb-0">
+                  <svg class="svg-inline--fa fa-user-clock fa-w-20 fa-4x text-light" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user-clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M496 224c-79.6 0-144 64.4-144 144s64.4 144 144 144 144-64.4 144-144-64.4-144-144-144zm64 150.3c0 5.3-4.4 9.7-9.7 9.7h-60.6c-5.3 0-9.7-4.4-9.7-9.7v-76.6c0-5.3 4.4-9.7 9.7-9.7h12.6c5.3 0 9.7 4.4 9.7 9.7V352h38.3c5.3 0 9.7 4.4 9.7 9.7v12.6zM320 368c0-27.8 6.7-54.1 18.2-77.5-8-1.5-16.2-2.5-24.6-2.5h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h347.1c-45.3-31.9-75.1-84.5-75.1-144zm-96-112c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128z"></path></svg><!-- <i class="fas fa-user-clock fa-4x text-light"></i> Font Awesome fontawesome.com -->
+                    <h2 class="text-light text-center"> Library Hours <small>(During Semester)</small></h2>
+
+<div class="card text-center border-0 bg-transparent" bis_skin_checked="1">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item-danger list-group-item">Sun-Wed 	: 09:00 am to 09:00 pm </li>
+    <li class="list-group-item-danger list-group-item">Thur	: 09:00 am to 07:00 pm </li>
+        <li class="list-group-item-danger list-group-item"> Fri-Sat: 10:00 am to 06:00 pm </li>
+  </ul>
+</div>
+<h4 class="text-light text-center py-1"> During Off Semester </h4>
+<div class="card text-center border-0 bg-transparent" bis_skin_checked="1">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item-danger list-group-item">Sun-Thu 	: 09:00 am to 07:00 pm </li>
+    <li class="list-group-item-danger list-group-item">Fri-Sat	: 10:00 am to 06:00 pm </li>
+  </ul>
+</div>
+<p class="text-light text-center">The library will remain closed on the holidays mentioned in the IUB calendar.</p>                </section>
+          </div>
+          <div class="col-xl-4" bis_skin_checked="1">
+            <section class="bg-iub-pink text-center align-middle">
+                  <svg class="svg-inline--fa fa-user-graduate fa-w-14 fa-4x text-light" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user-graduate" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M319.4 320.6L224 416l-95.4-95.4C57.1 323.7 0 382.2 0 454.4v9.6c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-9.6c0-72.2-57.1-130.7-128.6-133.8zM13.6 79.8l6.4 1.5v58.4c-7 4.2-12 11.5-12 20.3 0 8.4 4.6 15.4 11.1 19.7L3.5 242c-1.7 6.9 2.1 14 7.6 14h41.8c5.5 0 9.3-7.1 7.6-14l-15.6-62.3C51.4 175.4 56 168.4 56 160c0-8.8-5-16.1-12-20.3V87.1l66 15.9c-8.6 17.2-14 36.4-14 57 0 70.7 57.3 128 128 128s128-57.3 128-128c0-20.6-5.3-39.8-14-57l96.3-23.2c18.2-4.4 18.2-27.1 0-31.5l-190.4-46c-13-3.1-26.7-3.1-39.7 0L13.6 48.2c-18.1 4.4-18.1 27.2 0 31.6z"></path></svg><!-- <i class="fas fa-user-graduate fa-4x text-light"></i> Font Awesome fontawesome.com -->
+                  <h2 class="text-light text-center"> My Librarian </h2>
+                  <ul class="list-group list-group-flush text-start">
+     <li class="list-group-item"><i class="bi bi-book"><a href="https://library.iub.edu.bd/node/296"></a></i><a href="https://library.iub.edu.bd/node/296"> Subject Librarian </a></li>
+  <li class="list-group-item"><i class="bi bi-book"><a href="https://library.iub.edu.bd/node/290"></a></i><a href="https://library.iub.edu.bd/node/290"> Use Learning Resources </a></li>
+  <li class="list-group-item"><a href="https://library.iub.edu.bd/node/294"><i class="bi bi-box-arrow-in-right"></i> Book a discussion room</a> </li>
+  <li class="list-group-item"><a href="https://library.iub.edu.bd/node/291"><i class="bi bi-box-arrow-in-right"></i> Get the remote access</a> </li>
+  <li class="list-group-item"><a href="https://library.iub.edu.bd/node/292"><i class="bi bi-box-arrow-in-right"></i> Search an article </a></li>
+  <li class="list-group-item"><a href="https://library.iub.edu.bd/workshops"><i class="bi bi-box-arrow-in-right"></i> Attend a workshop </a></li>
+  <li class="list-group-item"><a href="https://library.iub.edu.bd/services/grammarly-service"><i class="bi bi-box-arrow-in-right"></i> Grammarly Service </a></li>
+</ul>
+            </section>
+          </div>
+        </div>
+        <!-- row-->
+    </div> <!-- container -->
+  </div>
+</section>
+
+
+  
+<section id="news-events" class="news-events-section py-5">
+  <style>
+    /* Scoped fallback styles to ensure layout even if aggregated CSS misses */
+    #news-events {
+      background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    #news-events::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 300px;
+      height: 300px;
+      background: radial-gradient(circle, rgba(46, 49, 146, 0.05) 0%, transparent 70%);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+    #news-events .news-card-track {
+      display: flex;
+      flex-wrap: nowrap;
+      gap: 1.25rem;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-behavior: smooth;
+      scrollbar-width: none;
+      align-items: stretch;
+    }
+    #news-events .news-card-track::-webkit-scrollbar { display: none; }
+    #news-events .news-window { overflow: hidden; width: 100%; }
+    #news-events .views-row {
+      flex: 0 0 320px;
+      max-width: 360px;
+      display: flex;
+      align-items: stretch;
+      padding: 0;
+      background: transparent;
+      border: 0;
+      box-shadow: none;
+    }
+    #news-events .news-card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 12px;
+      padding: 1.25rem;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.09);
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      align-items: stretch;
+      min-width: 300px;
+      max-width: 360px;
+      flex: 1 1 auto;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      overflow: hidden;
+    }
+    #news-events .news-body {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      height: 100%;
+      flex: 1;
+    }
+    #news-events .news-title,
+    #news-events .news-title a,
+    #news-events .news-excerpt {
+      word-break: break-word;
+    }
+    #news-events .news-excerpt {
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      display: -webkit-box;
+      overflow: hidden;
+      margin-top: auto;
+    }
+    #news-events .news-thumb {
+      width: 100%;
+      height: 180px;
+      border-radius: 10px;
+      overflow: hidden;
+      background: var(--iub-light-bg, #edf1ff);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--iub-blue, #2e3192);
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    #news-events .news-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    @media (max-width: 991.98px) {
+      #news-events .views-row { flex: 0 0 280px; max-width: 320px; }
+      #news-events .news-card { min-width: 280px; max-width: 320px; }
+    }
+    @media (max-width: 767.98px) {
+      #news-events .views-row { flex: 0 0 260px; max-width: 300px; }
+      #news-events .news-card { min-width: 260px; max-width: 300px; }
+    }
+    @media (max-width: 575.98px) {
+      #news-events .views-row,
+      #news-events .news-card { grid-template-columns: 1fr; flex: 0 0 calc(100% - 0.75rem); max-width: 100%; }
+    }
+  </style>
+
+  <div class="container position-relative aos-init aos-animate" data-aos="fade-up" bis_skin_checked="1">
+    <div class="d-flex align-items-center justify-content-between flex-wrap gap-3 mb-5" bis_skin_checked="1">
+      <div bis_skin_checked="1">
+        <p class="mb-1 text-uppercase small fw-semibold text-iub-blue" style="letter-spacing: 1px;">Latest updates</p>
+        <h2 class="mb-0 text-iub-blue fw-bold" style="font-size: 2rem;">News &amp; Events</h2>
+      </div>
+      <div class="d-flex align-items-center gap-2" bis_skin_checked="1">
+        <a class="btn btn-outline-iub-blue btn-sm" href="https://library.iub.edu.bd/notice-and-events" style="box-shadow: 0 4px 12px rgba(46, 49, 146, 0.15);">View all</a>
+      </div>
+    </div>
+
+    <div class="news-events-view position-relative" bis_skin_checked="1">
+      <div class="news-window" bis_skin_checked="1">
+        <div id="news-cards-track" class="news-card-track d-flex flex-nowrap gap-4" bis_skin_checked="1">
+          
+  
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="0" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38367">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-07/crossref.jpeg?itok=A_vNspKv 325w, /sites/default/files/styles/max_650x650/public/2026-07/crossref.jpeg?itok=XtchBPew 597w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="182" src="./library_files/crossref.jpeg" alt="crossref" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">July 19, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38367">
+<span>Crossref Membership and DOI Services at IUB Library</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Dear all We are pleased to announce that the IUB Library is now an official member of Crossref, the leading global organization that provides Digital Object Identifiers (DOIs) for…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38363">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-07/turnitin.jpg?itok=7U_Ql6Fs 325w, /sites/default/files/styles/max_650x650/public/2026-07/turnitin.jpg?itok=8IOhffTG 638w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="136" src="./library_files/turnitin.jpg" alt="turnitn" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">July 15, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38363">
+<span>Workshop on Turnitin Draft Coach</span>
+</a></h5>
+    <p class="news-excerpt mb-0">The IUB Library is pleased to organize a&amp;nbsp;Turnitin Draft Coach Training Session&amp;nbsp;for IUB students.Session OptionsSession 1: 11:00 AM – 12:00 PMSession 2: 2:30 PM – 3:30…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38350">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-06/PressReader.png?itok=I9nUAiUF 217w, /sites/default/files/styles/max_650x650/public/2026-06/PressReader.png?itok=b-391-cS 433w, /sites/default/files/styles/max_1300x1300/public/2026-06/PressReader.png?itok=r8Fj8Pic 867w, /sites/default/files/styles/max_2600x2600/public/2026-06/PressReader.png?itok=c9hsOkmn 1024w" sizes="(min-width: 1290px) 1290px, 100vw" width="217" height="325" src="./library_files/PressReader.png" alt="PressReader" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">June 24, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38350">
+<span>PressReader: Digital Newspaper &amp; Magazine Subscriptions Platform (Trial)</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Dear allThe IUB Library is pleased to offer trial access to PressReader, a leading digital platform providing access to thousands of newspapers and magazines from around the world…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38349">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-06/sage.jpeg?itok=Wi6C8Pxk 251w" sizes="(min-width: 1290px) 1290px, 100vw" width="251" height="138" src="./library_files/sage.jpeg" alt="Sage" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">June 21, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38349">
+<span>SAGE Premier Journals Activation</span>
+</a></h5>
+    <p class="news-excerpt mb-0">For details, please visit: https://library.iub.edu.bd/sagejournals</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="400" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38347">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-06/clos.jpg?itok=ae7mWc7j 246w, /sites/default/files/styles/max_650x650/public/2026-06/clos.jpg?itok=4BMvNz4Y 345w" sizes="(min-width: 1290px) 1290px, 100vw" width="246" height="325" src="./library_files/clos.jpg" alt="close" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">June 18, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38347">
+<span>Library Closure Notice: Holy Ashura</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Please note that the IUB Library will remain closed on 26 June &amp;nbsp;2026 (Friday) on the occasion of Holy AshuraThank you for your understanding.&amp;nbsp;Md. Shahajada Masud…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="500" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38346">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-05/Screenshot%202026-05-18%20171222.jpg?itok=WTE3WlAo 261w, /sites/default/files/styles/max_650x650/public/2026-05/Screenshot%202026-05-18%20171222.jpg?itok=CpJeyhmL 522w, /sites/default/files/styles/max_1300x1300/public/2026-05/Screenshot%202026-05-18%20171222.jpg?itok=JyCBh4oe 561w" sizes="(min-width: 1290px) 1290px, 100vw" width="261" height="325" src="./library_files/Screenshot 2026-05-18 171222.jpg" alt="close" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">May 18, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38346">
+<span>Library Closure Notice</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Please note that the IUB Library will remain closed on 23 May &amp;nbsp;2026 (Saturday) and Library operation hours for &amp;nbsp;24th May 2026 from 9:am-5:pm due to online classes.Thank…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="600" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38345">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-05/ori_1.jpg?itok=gm22K5q1 270w, /sites/default/files/styles/max_650x650/public/2026-05/ori_1.jpg?itok=dAR3mEU4 540w, /sites/default/files/styles/max_1300x1300/public/2026-05/ori_1.jpg?itok=H7Z9vZ3n 597w" sizes="(min-width: 1290px) 1290px, 100vw" width="270" height="325" src="./library_files/ori_1.jpg" alt="Library Orientation Summer 2026" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">May 13, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38345">
+<span>Library Orientation Summer 2026</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Library Orientation Program for FreshersThe IUB Library will arrange a Library Orientation Program for freshers from 17 May to 21 May 2026.All newly admitted students (Summer 2026…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="700" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38341">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-04/new-office-time_0002_0.jpg?itok=eYqor1Kx 230w, /sites/default/files/styles/max_650x650/public/2026-04/new-office-time_0002_0.jpg?itok=EO2PGnbV 461w, /sites/default/files/styles/max_1300x1300/public/2026-04/new-office-time_0002_0.jpg?itok=SSVspeJr 921w, /sites/default/files/styles/max_2600x2600/public/2026-04/new-office-time_0002_0.jpg?itok=UioPFifh 1643w" sizes="(min-width: 1290px) 1290px, 100vw" width="230" height="325" src="./library_files/new-office-time_0002_0.jpg" alt="t" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">April 20, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38341">
+<span>Library Hours during the Off Semester April-May 2026</span>
+</a></h5>
+    <p class="news-excerpt mb-0">The office hours of the IUB library During the Off Semester (From April 24, 2026 To May 15, 2026) will be as follows:Issued by:Md. Shahajada Masud Anowarul…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="800" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38340">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-03/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=ug-oi2Jq 325w, /sites/default/files/styles/max_650x650/public/2026-03/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=NXkxl4PF 650w, /sites/default/files/styles/max_1300x1300/public/2026-03/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=MlfH8OlH 1300w, /sites/default/files/styles/max_2600x2600/public/2026-03/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=lXXxeHU5 2000w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="230" src="./library_files/IUB Library Ramadan Hours - Textured Emerald Version.png" alt="eid vacation" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">March 10, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38340">
+<span>Changes in Library Hours During Eid-Ul-Fitr 2026</span>
+</a></h5>
+    <p class="news-excerpt mb-0">The Independent University, Bangladesh (IUB) Library informs all students, faculty members, and staff that according to the notice issued by the Registrar’s Office dated 19…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="900" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38339">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-02/closure.png?itok=vzisGJdR 325w, /sites/default/files/styles/max_650x650/public/2026-02/closure.png?itok=4wc5usly 650w, /sites/default/files/styles/max_1300x1300/public/2026-02/closure.png?itok=ILsMpErB 1300w, /sites/default/files/styles/max_2600x2600/public/2026-02/closure.png?itok=x_tYeGLz 1748w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="231" src="./library_files/closure.png" alt="Closure Notice" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">February 19, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38339">
+<span>Library Closure Notice</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Please note that the IUB Library will remain closed on 21 February 2026 (Saturday).Thank you for your understanding.&amp;nbsp;Md. Shahajada Masud Anowarul HaqueLibrarian</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1000" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38338">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-02/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=WMWdJUbH 325w, /sites/default/files/styles/max_650x650/public/2026-02/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=f-uwxy1I 650w, /sites/default/files/styles/max_1300x1300/public/2026-02/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=q6VsnSq5 1300w, /sites/default/files/styles/max_2600x2600/public/2026-02/IUB%20Library%20Ramadan%20Hours%20-%20Textured%20Emerald%20Version.png?itok=4wNdpxV7 2000w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="230" src="./library_files/IUB Library Ramadan Hours - Textured Emerald Version(1).png" alt="ramadan hours" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">February 16, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38338">
+<span>Library hours during the Holy Month of Ramadan</span>
+</a></h5>
+    <p class="news-excerpt mb-0"></p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1100" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38337">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-02/closure.png?itok=vzisGJdR 325w, /sites/default/files/styles/max_650x650/public/2026-02/closure.png?itok=4wc5usly 650w, /sites/default/files/styles/max_1300x1300/public/2026-02/closure.png?itok=ILsMpErB 1300w, /sites/default/files/styles/max_2600x2600/public/2026-02/closure.png?itok=x_tYeGLz 1748w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="231" src="./library_files/closure.png" alt="Closure Notice" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">February 9, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38337">
+<span>Library Closure Notice</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Please note that the IUB Library will remain closed on 13 February 2026 (Friday).Thank you for your understanding.&amp;nbsp;Md. Shahajada Masud Anowarul HaqueLibrarian</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1200" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38336">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-01/Invitation%20card%20-%20short.png?itok=7gd8N5gf 325w, /sites/default/files/styles/max_650x650/public/2026-01/Invitation%20card%20-%20short.png?itok=f13wDTl2 650w, /sites/default/files/styles/max_1300x1300/public/2026-01/Invitation%20card%20-%20short.png?itok=OSjFXzZm 1300w, /sites/default/files/styles/max_2600x2600/public/2026-01/Invitation%20card%20-%20short.png?itok=nAzNXdoQ 1999w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="229" src="./library_files/Invitation card - short.png" alt="invitation-card" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">January 25, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38336">
+<span>Book Unveiling Program (Reimagining the University: Best Practices for Higher Education in Bangladesh)</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Reimagining the University: Best Practices for Higher Education in Bangladesh
+
+  
+    Organized by the Independent University, Bangladesh in association with the
+   …</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1300" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/38227">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2026-01/orientation%202026_2.png?itok=YXNdwEwx 230w, /sites/default/files/styles/max_650x650/public/2026-01/orientation%202026_2.png?itok=Nfj_XSi_ 460w, /sites/default/files/styles/max_1300x1300/public/2026-01/orientation%202026_2.png?itok=UK0_3i8R 919w, /sites/default/files/styles/max_2600x2600/public/2026-01/orientation%202026_2.png?itok=pTIXx75D 1617w" sizes="(min-width: 1290px) 1290px, 100vw" width="230" height="325" src="./library_files/orientation 2026_2.png" alt="2026" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">January 14, 2026</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/38227">
+<span>Library Orientation Schedule: Spring 2026</span>
+</a></h5>
+    <p class="news-excerpt mb-0">All new students must attend a 45-minute Library Orientation session to learn about library services, resources, and research support. Please register at least two days prior to…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1400" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">January 18, 2024</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/25934">
+<span>Workshops </span>
+</a></h5>
+    <p class="news-excerpt mb-0">Workshops 
+ 
+Library sometimes offers workshops on different subjects.
+
+Introduction to library resourcesRegister NowSchedule will be announced soon.
+
+
+Plagiarism checking…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1500" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/25931">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2023-11/Scan_0005.jpg?itok=Imi5DI5b 229w, /sites/default/files/styles/max_650x650/public/2023-11/Scan_0005.jpg?itok=DjFN9-yH 457w, /sites/default/files/styles/max_1300x1300/public/2023-11/Scan_0005.jpg?itok=9SsqeT6X 914w, /sites/default/files/styles/max_2600x2600/public/2023-11/Scan_0005.jpg?itok=5iqQqtC6 1645w" sizes="(min-width: 1290px) 1290px, 100vw" width="229" height="325" src="./library_files/Scan_0005.jpg" alt="closing notice" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">November 6, 2023</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/25931">
+<span>Library closing notice</span>
+</a></h5>
+    <p class="news-excerpt mb-0">The IUB library will be closed on wednesday, November 8, 2023 due to observing the 24th convocation of IUB.&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;img src="/sites/default/files/notice-covocation…</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1600" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/25909">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2023-05/page0001.jpg?itok=bUQ-RAdG 230w, /sites/default/files/styles/max_650x650/public/2023-05/page0001.jpg?itok=-ZhO3RzU 460w, /sites/default/files/styles/max_1300x1300/public/2023-05/page0001.jpg?itok=irbiVwtE 919w, /sites/default/files/styles/max_2600x2600/public/2023-05/page0001.jpg?itok=3M3J5C9H 1240w" sizes="(min-width: 1290px) 1290px, 100vw" width="230" height="325" src="./library_files/page0001.jpg" alt="Notice" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">May 20, 2023</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/25909">
+<span>Job Notice</span>
+</a></h5>
+    <p class="news-excerpt mb-0"></p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1700" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">May 20, 2023</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/notice_and_events">
+<span>Application Form</span>
+</a></h5>
+    <p class="news-excerpt mb-0">Prescribed form is available in the IUB Library  (Level 3). 
+Or download from the link below
+
+Job Application Form</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1800" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+
+<div class="field field--name-field-image field--type-image field--label-above field--entity-node mb-3" bis_skin_checked="1">
+      <header class="field__label mb-2 d-flex align-items-center">
+      <svg class="svg-inline--fa fa-tag fa-w-16 me-2 text-secondary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"></path></svg><!-- <i class="fas fa-tag me-2 text-secondary" aria-hidden="true"></i> Font Awesome fontawesome.com -->
+      <span class="fw-bold">Image</span>
+    </header>
+  
+            <div class="field__item" bis_skin_checked="1">
+          <a href="https://library.iub.edu.bd/node/25720">  <img loading="eager" srcset="/sites/default/files/styles/max_325x325/public/2022-08/talk.jpg?itok=rHnrMcRI 325w, /sites/default/files/styles/max_650x650/public/2022-08/talk.jpg?itok=LzqKx6-d 650w, /sites/default/files/styles/max_1300x1300/public/2022-08/talk.jpg?itok=hOMfsMb- 1300w, /sites/default/files/styles/max_2600x2600/public/2022-08/talk.jpg?itok=XmVWfStG 2600w" sizes="(min-width: 1290px) 1290px, 100vw" width="325" height="114" src="./library_files/talk.jpg" alt="talk" typeof="foaf:Image">
+
+</a>
+
+      </div>
+      </div>
+
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">August 1, 2022</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/25720">
+<span>Talk with a valiant freedom fighter</span>
+</a></h5>
+    <p class="news-excerpt mb-0"></p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="1900" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">April 26, 2022</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/node/25699">
+<span>Closing of IUB Library Physical Services</span>
+</a></h5>
+    <p class="news-excerpt mb-0">&amp;nbsp;</p>
+  </div>
+</article>
+
+  </div>
+  <div class="views-row aos-init aos-animate" data-aos="zoom-in" data-aos-delay="2000" bis_skin_checked="1">
+    
+<article class="news-card aos-init aos-animate" data-aos="zoom-in">
+  <div class="news-thumb" bis_skin_checked="1">
+          
+      </div>
+
+  <div class="news-body" bis_skin_checked="1">
+    <div class="news-date text-muted" bis_skin_checked="1">April 24, 2022</div>
+    <h5 class="news-title mb-2"><a href="https://library.iub.edu.bd/library-timing-during-semester-break">
+<span>Library timing during semester break</span>
+</a></h5>
+    <p class="news-excerpt mb-0">The office timing of the IUB Library will be reschedule during May 8 -19, 2022 as per follows:&amp;nbsp;
+
+Sunday to Thursday : 8:30 am to 5:00 pm
+
+Friday and Saturday: Closed</p>
+  </div>
+</article>
+
+  </div>
+
+
+        </div>
+      </div>
+      <div class="news-nav-floating d-flex align-items-center justify-content-between" bis_skin_checked="1">
+        <button class="btn btn-outline-iub-blue btn-sm news-nav" type="button" data-target="#news-cards-track" data-direction="prev" aria-label="Previous" data-once="news-events-nav">
+          <i class="bi bi-arrow-left"></i>
+        </button>
+        <button class="btn btn-outline-iub-blue btn-sm news-nav" type="button" data-target="#news-cards-track" data-direction="next" aria-label="Next" data-once="news-events-nav">
+          <i class="bi bi-arrow-right"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+ <!-- ======= Footer ======= -->
+  <footer id="footer" class="border-top">
+
+    <div class="iub-footer-top" bis_skin_checked="1">
+      <div class="container" bis_skin_checked="1">
+        <div class="row" bis_skin_checked="1">
+
+          <div class="col-lg-3 col-md-6 footer-contact" bis_skin_checked="1">
+                            <div class="region region-footer-first d-grid gap-3" bis_skin_checked="1">
+    <div id="block-footercontact" class="block block-block-content block-block-contentb7956ea4-ba0e-46f2-905c-d5e5fd56084a" bis_skin_checked="1">
+  
+    
+      <div class="content" bis_skin_checked="1">
+      
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--entity-block-content mb-3" bis_skin_checked="1">
+  
+            <div class="field__item" bis_skin_checked="1">
+        <h3>Independent University, Bangladesh Library
+</h3>
+Plot 16 Block B, Aftabuddin Ahmed Road 
+Bashundhara R/A, Dhaka
+Bangladesh 
+<strong>Phone:</strong> +880 9612-939393 Ext. 2020
+<strong>Email:</strong> <a href="mailto:librarian@iub.edu.bd">librarian@iub.edu.bd</a>; <a href="mailto:library@iub.edu.bd">library@iub.edu.bd</a>
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+
+          <div class="col-lg-3 col-md-6 footer-links" bis_skin_checked="1">
+                             <div class="region region-footer-second d-grid gap-3" bis_skin_checked="1">
+    <div id="block-usefullinks" class="block block-block-content block-block-content443b5ef2-eb01-44b6-ba98-2aeedea20561" bis_skin_checked="1">
+  
+    
+      <div class="content" bis_skin_checked="1">
+      
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--entity-block-content mb-3" bis_skin_checked="1">
+  
+            <div class="field__item" bis_skin_checked="1">
+        <h4>USEFULL LINKS </h4>
+<ul class="text-iub-blue">
+  <li><i class="bx bx-chevron-right"></i> <a href="http://library.iub.edu.bd/">Home</a></li>
+  <li><i class="bx bx-chevron-right"></i> <a href="http://library.iub.edu.bd/about">About us</a></li>
+  <li><i class="bx bx-chevron-right"></i> <a href="http://library.iub.edu.bd/services">Services</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="https://docs.google.com/forms/d/1UbRlkU68zCuGYkmtQirf2ffBtu5B4hHcS54pRfgqZMY/viewform" target="_blank">Library Membership Form</a></li>
+ <li><i class="bx bx-chevron-right"></i> <a href="https://opac.iub.edu.bd/cgi-bin/koha/opac-user.pl">Renew book/ login to your library account</a></li>
+  <li><i class="bx bx-chevron-right"></i> <a href="https://library.iub.edu.bd/content/faqs">FAQs</a></li>
+</ul>
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+
+          <div class="col-lg-3 col-md-6 footer-links" bis_skin_checked="1">
+                            <div class="region region-footer-third d-grid gap-3" bis_skin_checked="1">
+    <div id="block-footerservices" class="block block-block-content block-block-content31a73aa2-8cde-4e9f-a9ce-e1c7b1e07d3f" bis_skin_checked="1">
+  
+    
+      <div class="content" bis_skin_checked="1">
+      
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--entity-block-content mb-3" bis_skin_checked="1">
+  
+            <div class="field__item" bis_skin_checked="1">
+        <div class="text-light" bis_skin_checked="1">
+  <!-- Title with aligned icon -->
+  <h4 class="d-flex align-items-center justify-content-center text-uppercase mb-3">
+    <svg class="svg-inline--fa fa-book fa-w-14 text-light me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="book" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M448 360V24c0-13.3-10.7-24-24-24H96C43 0 0 43 0 96v320c0 53 43 96 96 96h328c13.3 0 24-10.7 24-24v-16c0-7.5-3.5-14.3-8.9-18.7-4.2-15.4-4.2-59.3 0-74.7 5.4-4.3 8.9-11.1 8.9-18.6zM128 134c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm0 64c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm253.4 250H96c-17.7 0-32-14.3-32-32 0-17.6 14.4-32 32-32h285.4c-1.9 17.1-1.9 46.9 0 64z"></path></svg><!-- <i class="fas fa-book text-light me-2"></i> Font Awesome fontawesome.com -->
+    e-Resources
+  </h4>
+
+  <!-- List of e-Resources -->
+  <ul class="list-unstyled ps-3">
+    <li class="d-flex align-items-center mb-2">
+      <svg class="svg-inline--fa fa-chevron-right fa-w-10 text-light me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg><!-- <i class="fas fa-chevron-right text-light me-2"></i> Font Awesome fontawesome.com -->
+      <a href="http://library.iub.edu.bd/content/ebooks" class="text-light text-decoration-none">e-Books</a>
+    </li>
+    <li class="d-flex align-items-center mb-2">
+      <svg class="svg-inline--fa fa-chevron-right fa-w-10 text-light me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg><!-- <i class="fas fa-chevron-right text-light me-2"></i> Font Awesome fontawesome.com -->
+      <a href="https://library.iub.edu.bd/database" class="text-light text-decoration-none">e-Journals</a>
+    </li>
+    <li class="d-flex align-items-center mb-2">
+      <svg class="svg-inline--fa fa-chevron-right fa-w-10 text-light me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg><!-- <i class="fas fa-chevron-right text-light me-2"></i> Font Awesome fontawesome.com -->
+      <a href="https://library.iub.edu.bd/magazine" class="text-light text-decoration-none">e-Magazines</a>
+    </li>
+  </ul>
+</div>
+
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+
+          <div class="col-lg-3 col-md-6 footer-links" bis_skin_checked="1">
+                            <div class="region region-footer-fourth d-grid gap-3" bis_skin_checked="1">
+    <div id="block-footermap" class="block block-block-content block-block-contentd97bf6ff-3387-4bba-b627-db48061da86c" bis_skin_checked="1">
+  
+    
+      <div class="content" bis_skin_checked="1">
+      
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--entity-block-content mb-3" bis_skin_checked="1">
+  
+            <div class="field__item" bis_skin_checked="1">
+        <div class="text-light" bis_skin_checked="1">
+  <h4 class="mb-3 text-center text-uppercase">
+    <svg class="svg-inline--fa fa-map-marker-alt fa-w-12 text-danger" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg><!-- <i class="fas fa-map-marker-alt text-danger"></i> Font Awesome fontawesome.com --> Find Us on Map
+  </h4>
+  <div class="ratio ratio-16x9 rounded overflow-hidden shadow-lg" bis_skin_checked="1">
+    <iframe src="./library_files/embed.html" style="border:0; filter: grayscale(40%) brightness(90%) contrast(95%);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+  <div class="footer-bottom bg-dark" bis_skin_checked="1">
+    <div class="container" bis_skin_checked="1">
+      <div class="row py-3" bis_skin_checked="1">
+        <div class="col-lg-6" bis_skin_checked="1">
+          <div class="copyright" bis_skin_checked="1">
+            © Copyright <strong><span>IUB Library</span></strong>. All Rights Reserved.
+          </div>
+        </div>
+        <div class="col-lg-6" bis_skin_checked="1">
+          <div class="credits" bis_skin_checked="1">
+            Developed by Library IT
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <a href="https://library.iub.edu.bd/#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-183111169-3","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"","preferNative":false,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"user":{"uid":0,"permissionsHash":"a72b5cc43554b5b21689b5fbd3a964bd844365ffc1b79336b1718621200cc33c"}}</script>
+<script src="./library_files/jquery.min.js.download"></script>
+<script src="./library_files/once.min.js.download"></script>
+<script src="./library_files/drupalSettingsLoader.js.download"></script>
+<script src="./library_files/drupal.js.download"></script>
+<script src="./library_files/drupal.init.js.download"></script>
+<script src="./library_files/google_analytics.js.download"></script>
+<script src="./library_files/lazy.js.download"></script>
+<script src="./library_files/aos.js.download"></script>
+<script src="./library_files/bootstrap.bundle.min.js.download"></script>
+<script src="./library_files/glightbox.min.js.download"></script>
+<script src="./library_files/isotope.pkgd.min.js.download"></script>
+<script src="./library_files/purecounter.js.download"></script>
+<script src="./library_files/swiper-bundle.min.js.download"></script>
+<script src="./library_files/noframework.waypoints.js.download"></script>
+<script src="./library_files/main(1).js.download"></script>
+<script src="./library_files/all.js.download"></script>
+<script src="./library_files/custom.js.download"></script>
+<script src="./library_files/logo-slider.js.download"></script>
+<script src="./library_files/slick.js.download"></script>
+<script src="./library_files/live-bg.js.download"></script>
+
+  
+
+</body></html>
