@@ -54,7 +54,7 @@ if(!isset($_SESSION['user_id'])){
     <p>Manage student enrollments, records, and administrative tasks efficiently.</p>
     
     <!-- Campus image embedded here -->
-    <img src="images/campus.jpg" alt="Campus View" style="width:100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+    <img src="images/campus.jpeg" alt="Campus View" style="width:100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
 
     <div class="nav-cards">
         <a href="dashboard.php" class="card">Manage Students ➔</a>

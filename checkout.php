@@ -42,7 +42,7 @@ if(!isset($_SESSION['user_id'])){
 
 <div class="checkout-container">
     <h2 class="cart-title">Fee Checkout Summary</h2>
-    <p>Please review the pending fees for the current semester before proceeding.</p>
+    <p>Verify the fee breakdown below before recording the student's payment.</p>
 
     <!-- Lab image embedded here -->
     <img src="images/lab.jpg" alt="Engineering Laboratory" class="lab-image">
@@ -53,7 +53,7 @@ if(!isset($_SESSION['user_id'])){
             <th>Amount (BDT)</th>
         </tr>
         <tr>
-            <td>Tuition Fee (CSE303)</td>
+            <td>Tuition Fee</td>
             <td>15,000</td>
         </tr>
         <tr>

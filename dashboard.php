@@ -155,12 +155,12 @@ $result = mysqli_query($conn, "SELECT * FROM students");
 <footer class="site-footer">
     <div class="footer-container">
         <div class="footer-left">
-            <h3>Independent University, Bangladesh (IUB)</h3>
-            <p>School of Engineering, Technology & Sciences</p>
-            <p>Department of Computer Science & Engineering</p>
+            <h3></h3>
+            <p></p>
+            <p></p>
         </div>
         <div class="footer-right">
-            <h3>CSE303 Database Management Lab</h3>
+            <h3></h3>
         </div>
     </div>
 </footer>
