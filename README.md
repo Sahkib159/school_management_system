@@ -29,13 +29,4 @@ A robust, web-based academic portal designed to streamline administrative tasks.
     *   Designed with considerations for RAID 4 Recovery mechanisms.
     *   Optimized with B-Tree and B+ Tree Hashing/Indexing for efficient data retrieval.
 
-## 👥 Project Team
-
-*   Sahkib Ahad Chowdhury (2310626)
-*   Adiba Rahman Mim (2311124)
-*   Syeda Karima Kashmin (2311971)
-*   Most. Tanaka Anta Alam (2310364)
-*   Naila Noushin (2221869)
-*   Nabila Sharin Anonna (2221487)
-
 > **Note:** To run this project locally, clone the repository, place it in your `htdocs` folder, and import the included `school_db.sql` file into phpMyAdmin using XAMPP.
