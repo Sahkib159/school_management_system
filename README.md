@@ -1,147 +1,106 @@
-Markdown
-# 🏫 School Management System
+# School Management System
 
-> A lightweight, web-based school administration and record-keeping platform designed to streamline student admissions, academic record management, and dynamic fee processing.
+A PHP and MySQL web application for managing student records and reviewing school fee settings. The project was created as an academic system-analysis-and-design project.
 
-[![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Apache](https://img.shields.io/badge/Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-Academic%20Use-brightgreen?style=for-the-badge)](#)
+## Features
 
----
+- Register and sign in to an account.
+- View the academic portal after signing in.
+- Add, view, edit, and delete student records.
+- Review tuition, laboratory, and student activity fees, change the amounts, and see the total update in the browser.
+- Save fee settings to the database.
 
-## 📖 Overview
+## Built with
 
-The **School Management System** transitions traditional, error-prone paper registers and manual ledger records into a centralized digital portal. It provides role-authenticated access for administrative personnel to manage student profiles, monitor student records, and dynamically adjust, calculate, and persist fee breakdowns prior to checkout confirmation.
+- PHP
+- MySQL or MariaDB
+- HTML, CSS, and vanilla JavaScript
+- Apache (XAMPP is suitable for local development)
 
----
+## Requirements
 
-## ✨ Features
+- PHP 7.4 or newer with the `mysqli` extension enabled
+- MySQL or MariaDB
+- Apache or another PHP-capable web server
+- Git (to clone the repository)
 
-- **🔐 Session & Authentication Management:** Secure login and logout mechanism to protect administrative routes and maintain session integrity.
-- **👨‍🎓 Student Records Dashboard:** Centralized directory interface for viewing, managing, and tracking enrolled students.
-- **💳 Dynamic Fee Configuration & Checkout:**
-  - Configurable fee categories including **Tuition Fee**, **Laboratory Fee**, and **Student Activity Fee**.
-  - Real-time client-side total calculation via JavaScript event listeners.
-  - Persistent server-side database storage to retain custom administrative fee overrides across sessions.
-- **🖥️ Responsive Administrative Interface:** Clean layout powered by pure CSS with structured data tables, modern cards, and intuitive navigation.
+## Run locally with XAMPP
 
----
+1. Start **Apache** and **MySQL** from the XAMPP Control Panel.
+2. Clone this repository into XAMPP's `htdocs` folder:
 
-## 🛠️ Technology Stack
+   ```powershell
+   cd C:\xampp\htdocs
+   git clone https://github.com/Sahkib159/school_management_system.git
+   ```
 
-| Layer | Technology |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, Modern Vanilla JavaScript (DOM & Events) |
-| **Backend** | PHP (Procedural & Object-Oriented with Prepared Statements) |
-| **Database** | MySQL / MariaDB |
-| **Local Environment** | XAMPP / WampServer / LAMP Stack (Apache Server) |
+3. Create and populate the database:
+   - Open [phpMyAdmin](http://localhost/phpmyadmin).
+   - Create a database named `school_db`, or use the database creation statement in the SQL file.
+   - Select `school_db`, choose **Import**, and import [`school_db.sql`](./school_db.sql).
 
----
+4. Add the role and fee-settings schema used by the registration and fee pages. In phpMyAdmin, open the database's **SQL** tab and run:
 
-## 📂 Project Architecture
+   ```sql
+   USE school_db;
+
+   ALTER TABLE users
+       ADD COLUMN role VARCHAR(20) NOT NULL DEFAULT 'Teacher';
+
+   CREATE TABLE IF NOT EXISTS fee_settings (
+       id INT AUTO_INCREMENT PRIMARY KEY,
+       fee_name VARCHAR(50) NOT NULL UNIQUE,
+       amount DECIMAL(10, 2) NOT NULL
+   );
+
+   INSERT INTO fee_settings (fee_name, amount) VALUES
+       ('tuition_fee', 15000.00),
+       ('lab_fee', 2500.00),
+       ('activity_fee', 1000.00)
+   ON DUPLICATE KEY UPDATE amount = VALUES(amount);
+   ```
+
+   These are one-time setup steps for a fresh import. If `users.role` already exists, omit the `ALTER TABLE` statement.
+
+5. Check the connection settings in [`db.php`](./db.php). The defaults expect a local MySQL server at `localhost`, user `root`, an empty password, and database `school_db`. Update these values if your local MySQL configuration differs.
+6. Open [http://localhost/school_management_system/register.php](http://localhost/school_management_system/register.php), create an account, and choose **Administrator** if you want to use the fee-settings page.
+7. Sign in at [http://localhost/school_management_system/login.php](http://localhost/school_management_system/login.php).
+
+## Project structure
 
 ```text
 school_management_system/
-│
-├── css/
-│   └── style.css            # Global stylesheet & design rules
+├── CSS/
+│   ├── loginstyle.css
+│   ├── registerstyle.css
+│   └── style.css
 ├── images/
-│   └── lab.jpg              # Asset banners and interface media
-├── db.php                   # MySQL database connector ($conn)
-├── login.php                # Authentication gate & login view
-├── logout.php               # Session destruction & redirect
-├── home.php                 # Administrative landing dashboard
-├── dashboard.php            # Student record directory & listings
-├── checkout.php             # Fee checkout summary & dynamic adjustments
-└── README.md                # Project documentation
-🚀 Getting Started
-Follow these instructions to set up and run the project locally on your machine.
+│   ├── Campus.jpeg
+│   ├── lab.jpg
+│   └── library.jpg
+├── checkout.php        # Fee summary and fee-setting updates
+├── dashboard.php       # Student list and student creation/deletion
+├── db.php              # MySQL connection
+├── delete_student.php  # Student deletion endpoint
+├── edit_student.php    # Student record editing
+├── home.php            # Signed-in landing page
+├── login.php           # Sign-in
+├── logout.php          # Sign-out
+├── register.php        # Account registration
+└── school_db.sql       # Initial database schema
+```
 
-1. Prerequisites
-Ensure you have the following installed:
+## Notes
 
-XAMPP (recommended) or any local server stack containing Apache, PHP 7.4+, and MySQL.
+- Import `school_db.sql` into a **fresh** database. The extra SQL above adds schema required by the current application but not included in that file yet.
+- This project is an academic prototype, not production-ready software. Do not expose it to the public internet or use it to store real student or account data without a security review and appropriate hardening.
+- The source references some CSS and image paths with different letter casing from the corresponding repository names. Windows XAMPP generally tolerates this; case-sensitive hosts (such as many Linux servers) may not. Check and make those paths consistent before deploying there.
+- No open-source license is currently included. Add a license file if you intend to grant reuse or distribution permissions.
 
-Git.
+## Author
 
-2. Clone the Repository
-Clone the repository into your local server root directory (htdocs for XAMPP):
+**Sahkib Ahad Chowdhury**
 
-Bash
-# Navigate to XAMPP htdocs directory
-cd C:/xampp/htdocs/
+System Analysis and Design (CSE307)
 
-# Clone this repository
-git clone [https://github.com/Sahkib159/school_management_system.git](https://github.com/Sahkib159/school_management_system.git)
-3. Database Setup
-Start Apache and MySQL from your XAMPP Control Panel.
-
-Open your web browser and go to: http://localhost/phpmyadmin.
-
-Create a new database named: school_db.
-
-Click on the SQL tab and execute the following queries:
-
-SQL
-CREATE DATABASE IF NOT EXISTS school_db;
-USE school_db;
-
--- 1. Table for administrative users
-CREATE TABLE IF NOT EXISTS users (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    username VARCHAR(100) NOT NULL UNIQUE,
-    password VARCHAR(255) NOT NULL,
-    role VARCHAR(50) DEFAULT 'admin',
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 2. Table for persistent dynamic fee configurations
-CREATE TABLE IF NOT EXISTS fee_settings (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    fee_name VARCHAR(50) NOT NULL UNIQUE,
-    amount DECIMAL(10, 2) NOT NULL
-);
-
--- 3. Seed initial fee structure
-INSERT INTO fee_settings (fee_name, amount) VALUES 
-('tuition_fee', 15000.00),
-('lab_fee', 2500.00),
-('activity_fee', 1000.00)
-ON DUPLICATE KEY UPDATE amount = VALUES(amount);
-4. Verify Database Credentials
-Open db.php in your code editor and verify that your local database credentials match:
-
-PHP
-<?php
-$servername = "localhost";
-$username   = "root";
-$password   = "";
-$dbname     = "school_db";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-if ($conn->connect_error) {
-    die("Database Connection failed: " . $conn->connect_error);
-}
-?>
-5. Launch the Application
-Open your web browser and navigate to:
-
-Plaintext
-http://localhost/school_management_system/login.php
-🔒 Security Practices
-SQL Injection Prevention: Uses MySQLi parameterized prepared statements (bind_param) for data updates.
-
-XSS Mitigation: Sanitizes dynamic outputs rendered in HTML using htmlspecialchars().
-
-Type-Safe Parsing: Floating-point casts (floatval) applied to all numerical values submitted via checkout inputs.
-
-Access Control: Enforces authenticated session checks ($_SESSION['user_id']) before displaying protected admin pages.
-
-👥 Authors & Academic Context
-Course Context: System Analysis and Design (CSE307)
-
-Author: Sahkib Ahad Chowdhury
-
-Institution: Independent University, Bangladesh (IUB)
+Independent University, Bangladesh (IUB)
