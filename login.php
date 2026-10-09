@@ -18,8 +18,10 @@ if(isset($_POST['login'])){
 
             $_SESSION['user_id'] = $user['id'];
             $_SESSION['username'] = $user['username'];
+            // Capture the role from the database and save it to the session
+            $_SESSION['role'] = $user['role']; 
 
-            // CHANGED: Redirects to home.php instead of dashboard.php
+            // Redirects to home.php
             header("Location: home.php");
             exit();
         }

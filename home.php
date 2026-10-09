@@ -43,7 +43,12 @@ if(!isset($_SESSION['user_id'])){
         </li>
         <li><a href="home.php">Home</a></li>
         <li><a href="dashboard.php">Students</a></li>
+        
+        <!-- Restrict Fees link to Admins only -->
+        <?php if(isset($_SESSION['role']) && $_SESSION['role'] === 'Admin'): ?>
         <li><a href="checkout.php">Fees</a></li>
+        <?php endif; ?>
+        
         <li><a href="logout.php">Logout</a></li>
     </ul>
 </div>
@@ -58,7 +63,11 @@ if(!isset($_SESSION['user_id'])){
 
     <div class="nav-cards">
         <a href="dashboard.php" class="card">Manage Students ➔</a>
+        
+        <!-- Restrict Fee Checkout card to Admins only -->
+        <?php if(isset($_SESSION['role']) && $_SESSION['role'] === 'Admin'): ?>
         <a href="checkout.php" class="card">Fee Checkout ➔</a>
+        <?php endif; ?>
     </div>
 </div>
 

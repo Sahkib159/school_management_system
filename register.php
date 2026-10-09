@@ -7,9 +7,12 @@ if(isset($_POST['register'])){
     $username = $_POST['username'];
     $email = $_POST['email'];
     $password = password_hash($_POST['password'], PASSWORD_DEFAULT);
+    // Capture the newly added role from the form
+    $role = $_POST['role']; 
 
-    $sql = "INSERT INTO users(username,email,password)
-            VALUES('$username','$email','$password')";
+    // Updated SQL query to include the role column
+    $sql = "INSERT INTO users(username,email,password,role)
+            VALUES('$username','$email','$password','$role')";
 
     if(mysqli_query($conn,$sql)){
         header("Location: login.php");
@@ -42,6 +45,13 @@ if(isset($_POST['register'])){
             <input type="text" name="username" placeholder="Username" required>
             <input type="email" name="email" placeholder="Email" required>
             <input type="password" name="password" placeholder="Password" required>
+
+            <!-- New Role Dropdown -->
+            <select name="role" required>
+                <option value="" disabled selected>Select Role</option>
+                <option value="Admin">Administrator</option>
+                <option value="Teacher">Teacher</option>
+            </select>
 
             <button type="submit" name="register">Register →</button>
         </form>
